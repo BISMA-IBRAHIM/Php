@@ -1,0 +1,13 @@
+.container{
+    text-align: center;
+    background-color: rgb(2, 57, 57);
+    color: antiquewhite;
+    
+}
+.container:hover {
+    background-color: rgb(69, 69, 14);
+  }
+  .tag{
+    background-color: rgb(79, 123, 108);
+    color: aliceblue;
+  }
